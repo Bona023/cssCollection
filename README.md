@@ -6,4 +6,4 @@
 
 -   출처 : https://dribbble.com/shots/19526780-Education-Courses-App
 -   스크린 샷
-    ![clone01|300x300](/CSS_Clone_Example/01.png)
+    ![clone01|200x200](/CSS_Clone_Example/01.png)
