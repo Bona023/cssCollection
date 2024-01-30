@@ -5,8 +5,9 @@
 ### 1. Educate App
 
 -   출처 : https://dribbble.com/shots/19526780-Education-Courses-App
--   스크린 샷
+-   예시 VS 클론
     </br>
     <p align="center">
-    <img src="./CSS_Clone_Example/01.png" width="350px" height="350px">
+    <img src="/cloneExample/01.png" width="350px" height="350px">
+    <img src="/cloneScreenshot/clone01.png" width="350px" height="350px">
     </p>
