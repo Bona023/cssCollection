@@ -14,6 +14,7 @@
     </br>
     <p align="center">
     <img src="/cloneExample/01.png" width="350px" height="350px">
+    &nbsp;&nbsp;&nbsp;
     <img src="/cloneScreenshot/clone01.png" width="220px" height="350px">
     </p>
 
@@ -26,6 +27,7 @@
     </br>
     <p align="center">
     <img src="/cloneExample/02.png" width="450px" height="350px">
+     &nbsp;&nbsp;&nbsp;
     <img src="/cloneScreenshot/clone02.png" width="220px" height="350px">
     </p>
     </br></br>
