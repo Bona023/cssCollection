@@ -1,7 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+@import "/styles/reset.scss";
 body {
-    padding: 0;
-    margin: 0;
     display: flex;
 }
 .nav {
@@ -33,20 +32,24 @@ body {
 }
 .page {
     background-color: black;
-    width: 420px;
-    height: 100vh;
-    min-height: 760px;
+    width: 400px;
+    height: 95vh;
+    min-height: 750px;
     margin: 0 auto;
+    margin-top: 10px;
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
     overflow-x: hidden;
+    border-radius: 50px;
 }
 .page__menuBar {
     width: 500px;
     height: 45px;
-    margin-bottom: 25px;
-    margin-left: 45px;
+    margin-top: 45px;
+    margin-bottom: 12px;
+    margin-left: 170px;
     display: flex;
     align-items: center;
     overflow-x: hidden;
@@ -72,6 +75,7 @@ body {
 .page__class {
     width: 330px;
     margin: 0 45px;
+    margin-bottom: 40px;
     height: 640px;
     display: grid;
     grid-template:
@@ -79,7 +83,7 @@ body {
         "class3 class3" 1fr
         "class4 class5" 1fr
         "class6 class6" 1fr / 1fr 1fr;
-    gap: 12px;
+    gap: 10px;
 }
 .class--btn {
     border-radius: 20px;
