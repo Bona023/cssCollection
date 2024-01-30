@@ -16,3 +16,16 @@
     <img src="/cloneExample/01.png" width="350px" height="350px">
     <img src="/cloneScreenshot/clone01.png" width="250px" height="350px">
     </p>
+
+</br></br>
+
+### 2. Fashion App
+
+-   출처 : https://dribbble.com/shots/14115821-High-End-Fashion-Store-iOS-App-Design
+-   예시 VS 클론
+    </br>
+    <p align="center">
+    <img src="/cloneExample/02.png" width="350px" height="350px">
+    <img src="/cloneScreenshot/clone02.png" width="250px" height="350px">
+    </p>
+    </br></br>
