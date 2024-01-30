@@ -2,6 +2,11 @@
 
 -   웹사이트 스크린 샷을 보고 css, scss를 사용해서 따라해보기
 
+### 🖼️ 이미지 및 아이콘 출처
+
+-   Icon : Icons by Icons8 ( https://icons8.kr/ )
+-   image : unsplash ( https://unsplash.com/ko )
+
 ### 1. Educate App
 
 -   출처 : https://dribbble.com/shots/19526780-Education-Courses-App
