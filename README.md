@@ -9,5 +9,5 @@
     </br>
     <p align="center">
     <img src="/cloneExample/01.png" width="350px" height="350px">
-    <img src="/cloneScreenshot/clone01.png" width="280px" height="350px">
+    <img src="/cloneScreenshot/clone01.png" width="250px" height="350px">
     </p>
